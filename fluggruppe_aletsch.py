@@ -21,7 +21,9 @@ class FluggruppeAletsch(Provider):
         'ried-brig',
         'blitzingu',
         'bellwald',
-        'fieschertal'
+        'fieschertal',
+        'rothorli',
+        'klaena'
     ]
 
     def process_data(self):
